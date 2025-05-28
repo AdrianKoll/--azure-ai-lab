@@ -28,8 +28,7 @@ Este projeto documenta minha experiência prática com o Azure Speech Studio e L
 
 ## 📷 Capturas de Tela
 As imagens estão disponíveis na pasta `/images`.
-### Exemplo de Transcrição
-![Transcrição de Áudio](Captura de tela 2025-05-27 212436)
+![Transcrição de Áudio](Captura de tela.png)
 
 ## 📝 Conclusão
 O uso das ferramentas da Azure facilita a integração de IA em aplicações. Com elas, é possível criar soluções robustas e acessíveis com pouco código.
